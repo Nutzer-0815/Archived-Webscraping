@@ -1184,8 +1184,6 @@ def extract_stern_data(input_directory, output_directory, output_folder, spec_lo
                 "data_scraping_date": datetime.today().strftime("%Y-%m-%d"),
                 "scraper_name": "Matthias Endres",
                 "institution_name": "Humboldt-Universitaet zu Berlin",
-                "supervisor_name_primary": "Torsten Hiltmann",
-                "supervisor_name_secondary": "Carolin Odebrecht",
                 "notes_on_general_data_en": "author: Is no author mentioned, usually a news agency is mentioned instead. Sometimes the text type is also stated in this data. || category: Unlike in the dataset of Der Spiegel, the articles here would normally be organized by category-year-month-page. To maintain a certain degree of consistency, it is ordered chronologically, so the year is the primary file name, followed by a month-category-page hierarchy. || word_count: Every whitespace and every punctuation mark is used as a seperator. So it isn't very accurate. For example: The german number '500.000' (english: 500,000) is counted as '500' and '000', so as two words. || is_copyright: It is the german copyright.",
                 "notes_on_general_data_de": "author: Sind keine Autoren direkt genannt, werden meist Nachrichtenagenturen genannt. Manchmal steht hier auch die Textsorte dabei. || category: Im Gegensatz zum Spiegel wären die Artikel hier normalerweise nach Rubrik-Jahr-Monat-Seite gegliedert. Um ein gewisses Maß an Einheitlichkeit zu haben, wurde es chronologisch geordnet, also ist das Jahr ausschlaggebend für die Datei, danach folgt die Hierarchie Monat-Rubrik-Seite (month-category-page). || word_count: Jedes Leerzeichen und Satzzeichen werden als Trennzeichen verwendet. Daher ist die Zaehlung nicht sehr akkurat. Zum Beispiel: Die Zahl '500.000' wird als '500' und '000' gezaehlt, also als zwei Woerter. || is_copyright: Es handelt sich um deutsches Urheberrecht.",
                 "notes_on_specific_data_en": "Especially in the early years of the Stern archive there are few articles. It is not known whether this was due to the small scale of Stern Online at the time.",
@@ -1337,4 +1335,5 @@ if __name__ == "__main__":
     logging.info("3.7 - Dateigroessen dem JSON angehaengt.")
 
     logging.info("4 - Code fuer Stern abgeschlossen.")
+
     print(f"4 - Code fuer Stern abgeschlossen. Datum: {str(datetime.now())} (Achtung, wegen Multiprocessing bitte trotzdem noch eine Stunde lang den Code nicht anfassen, da diese Nachricht normalerweise schon beim ersten Prozess gedruckt wird.")
