@@ -1552,8 +1552,6 @@ def extract_spiegel_data(input_directory, output_directory, output_folder, spec_
                 "data_scraping_date": datetime.today().strftime('%Y-%m-%d'),
                 "scraper_name": "Matthias Endres",
                 "institution_name": "Humboldt-Universitaet zu Berlin",
-                "supervisor_name_primary": "Torsten Hiltmann",
-                "supervisor_name_secondary": "Carolin Odebrecht",
                 "notes_on_general_data_en": "article_text: The text is saved with its HTML-formatting-elements. At the end of the text there are also sometimes captions from pictures in the printed issues. Mostly the accompanying pictures are missing on the website. || word_count: Every whitespace and every punctuation mark is used as a seperator. So it isn't very accurate. For example: The german number '500.000' (english: 500,000) is counted as '500' and '000', so as two words. ",
                 "notes_on_general_data_de": "article_text: Der Text wird mit den HTML-Formatierungs-Elementen gespeichert. Ebenso sind am Textende manchmal Bildunterschriften aus den urspruenglichen Druckausgaben vorhanden. Die dazugehoerigen Bilder fehlen allerdings meistens auf den Websites. || word_count: Jedes Leerzeichen und Satzzeichen werden als Trennzeichen verwendet. Daher ist die Zaehlung nicht sehr akkurat. Zum Beispiel: Die Zahl '500.000' wird als '500' und '000' gezaehlt, also als zwei Woerter.", 
                 "notes_on_specific_data_en": "Following issues are nonexistent in this textcorpus, because they are part of double-issues. Sometimes two issues were released as one bigger, binded together, which isn't represented in the HTML. Following issues are affected: 1948-03 (part of 1948-02), 1960-02 (part of 1960-01), 1962-02 (part of 1962-01), 1963-02 (part of 1963-01), 1964-02 (part of 1964-01), 1965-02 (part of 1965-01), 1966-02 (part of 1966-01), 1967-02 (part of 1967-01), 1969-02 (part of 1969-01), 1970-02 (part of 1970-01), 1971-02 (part of 1971-01), 1972-02 (part of 1972-01), 1974-02 (part of 1974-01), 1975-02 (part of 1975-01), 1976-02 (part of 1976-01), 1976-21 (part of 1976-20), 1977-02 (part of 1977-01), 1978-13 (part of 1978-12), 1980-02 (part of 1980-01), 1981-02 (part of 1981-01).",
@@ -1770,3 +1768,4 @@ if __name__ == "__main__":
 
     logging.info("4 - Code fuer Spiegel abgeschlossen.")
     print(f"4 - Code fuer Spiegel abgeschlossen. Datum: {str(datetime.now())} (Achtung, wegen Multiprocessing bitte trotzdem noch eine Stunde lang den Code nicht anfassen, da diese Nachricht normalerweise schon beim ersten Prozess gedruckt wird.")
+
