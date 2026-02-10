@@ -1,0 +1,354 @@
+{
+    "https://www.spiegel.de/spiegel/print/index-1947-16.html": {
+        "timestamp": "2025-05-04T13:33:07.794904",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-16.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4CC40>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-17.html": {
+        "timestamp": "2025-05-04T13:33:08.018993",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-17.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F7C0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-18.html": {
+        "timestamp": "2025-05-04T13:33:08.226375",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-18.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4DFC0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-19.html": {
+        "timestamp": "2025-05-04T13:33:08.417349",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-19.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F14AC0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-20.html": {
+        "timestamp": "2025-05-04T13:33:08.607881",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-20.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E590>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-21.html": {
+        "timestamp": "2025-05-04T13:33:08.774814",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-21.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F4C0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-22.html": {
+        "timestamp": "2025-05-04T13:33:08.908798",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-22.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E710>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-23.html": {
+        "timestamp": "2025-05-04T13:33:09.094843",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-23.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FEB0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-24.html": {
+        "timestamp": "2025-05-04T13:33:09.359022",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-24.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4C880>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-25.html": {
+        "timestamp": "2025-05-04T13:33:09.574745",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-25.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4C670>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-26.html": {
+        "timestamp": "2025-05-04T13:33:09.853698",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-26.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F148E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-27.html": {
+        "timestamp": "2025-05-04T13:33:10.020064",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-27.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F15990>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-28.html": {
+        "timestamp": "2025-05-04T13:33:10.195067",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-28.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F14C10>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-29.html": {
+        "timestamp": "2025-05-04T13:33:10.468010",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-29.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4DC00>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-30.html": {
+        "timestamp": "2025-05-04T13:33:10.678131",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-30.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F14250>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-31.html": {
+        "timestamp": "2025-05-04T13:33:10.878224",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-31.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F2E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-32.html": {
+        "timestamp": "2025-05-04T13:33:11.069467",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-32.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E350>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-33.html": {
+        "timestamp": "2025-05-04T13:33:11.290687",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-33.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F15900>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-34.html": {
+        "timestamp": "2025-05-04T13:33:11.496552",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-34.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898BC70>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-35.html": {
+        "timestamp": "2025-05-04T13:33:11.702608",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-35.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F15150>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-36.html": {
+        "timestamp": "2025-05-04T13:33:11.912981",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-36.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F15AB0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-37.html": {
+        "timestamp": "2025-05-04T13:33:12.114632",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-37.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F144F0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-38.html": {
+        "timestamp": "2025-05-04T13:33:12.321128",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-38.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F151E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-39.html": {
+        "timestamp": "2025-05-04T13:33:12.526869",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-39.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4ED70>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-40.html": {
+        "timestamp": "2025-05-04T13:33:12.702770",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-40.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F14E20>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-41.html": {
+        "timestamp": "2025-05-04T13:33:12.917736",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-41.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4CB20>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-42.html": {
+        "timestamp": "2025-05-04T13:33:13.109876",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-42.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4DF30>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-43.html": {
+        "timestamp": "2025-05-04T13:33:13.300690",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-43.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FD90>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-44.html": {
+        "timestamp": "2025-05-04T13:33:13.506788",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-44.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4EEC0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-45.html": {
+        "timestamp": "2025-05-04T13:33:13.654954",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-45.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F15A20>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-46.html": {
+        "timestamp": "2025-05-04T13:33:13.844700",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-46.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F8E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-47.html": {
+        "timestamp": "2025-05-04T13:33:14.041260",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-47.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FFD0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-48.html": {
+        "timestamp": "2025-05-04T13:33:14.194260",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-48.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F146D0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-49.html": {
+        "timestamp": "2025-05-04T13:33:14.402025",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-49.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FAC0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-50.html": {
+        "timestamp": "2025-05-04T13:33:14.581363",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-50.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FFD0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1947-51.html": {
+        "timestamp": "2025-05-04T13:33:14.798535",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1947-51.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A500>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-1.html": {
+        "timestamp": "2025-05-04T13:33:15.094582",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-1.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FEB0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-2.html": {
+        "timestamp": "2025-05-04T13:33:15.304573",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-2.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FAC0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-3.html": {
+        "timestamp": "2025-05-04T13:33:15.513004",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-3.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F160>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-4.html": {
+        "timestamp": "2025-05-04T13:33:15.716004",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-4.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898AD40>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-5.html": {
+        "timestamp": "2025-05-04T13:33:15.862972",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-5.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4D660>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-6.html": {
+        "timestamp": "2025-05-04T13:33:16.005611",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-6.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F370>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-7.html": {
+        "timestamp": "2025-05-04T13:33:16.181406",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-7.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A3E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-8.html": {
+        "timestamp": "2025-05-04T13:33:16.293430",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-8.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E8989CF0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-9.html": {
+        "timestamp": "2025-05-04T13:33:16.453823",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-9.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FE20>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-10.html": {
+        "timestamp": "2025-05-04T13:33:16.601302",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-10.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4D2A0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-11.html": {
+        "timestamp": "2025-05-04T13:33:16.740732",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-11.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A470>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-12.html": {
+        "timestamp": "2025-05-04T13:33:16.853758",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-12.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898BA60>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-13.html": {
+        "timestamp": "2025-05-04T13:33:17.011690",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-13.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4C190>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-14.html": {
+        "timestamp": "2025-05-04T13:33:17.158974",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-14.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4DB40>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-15.html": {
+        "timestamp": "2025-05-04T13:33:17.282646",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-15.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4C4C0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-16.html": {
+        "timestamp": "2025-05-04T13:33:17.372243",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-16.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F550>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-17.html": {
+        "timestamp": "2025-05-04T13:33:17.458197",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-17.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FF40>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-18.html": {
+        "timestamp": "2025-05-04T13:33:17.561539",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-18.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898B2E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-19.html": {
+        "timestamp": "2025-05-04T13:33:17.653709",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-19.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FDF0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-20.html": {
+        "timestamp": "2025-05-04T13:33:17.720136",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-20.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E680>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-21.html": {
+        "timestamp": "2025-05-04T13:33:17.802795",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-21.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F160>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-22.html": {
+        "timestamp": "2025-05-04T13:33:17.886162",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-22.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4CD60>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-23.html": {
+        "timestamp": "2025-05-04T13:33:17.965307",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-23.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A5F0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-24.html": {
+        "timestamp": "2025-05-04T13:33:18.028913",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-24.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4D630>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-25.html": {
+        "timestamp": "2025-05-04T13:33:18.092475",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-25.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4EF20>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-26.html": {
+        "timestamp": "2025-05-04T13:33:18.156188",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-26.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A230>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-27.html": {
+        "timestamp": "2025-05-04T13:33:18.227850",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-27.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4FD00>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-28.html": {
+        "timestamp": "2025-05-04T13:33:18.289323",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-28.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E680>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-29.html": {
+        "timestamp": "2025-05-04T13:33:18.346418",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-29.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A0B0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-30.html": {
+        "timestamp": "2025-05-04T13:33:18.424152",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-30.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A6E0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-31.html": {
+        "timestamp": "2025-05-04T13:33:18.519215",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-31.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E8989870>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-32.html": {
+        "timestamp": "2025-05-04T13:33:18.621408",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-32.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E8988940>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-33.html": {
+        "timestamp": "2025-05-04T13:33:18.695339",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-33.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A170>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-34.html": {
+        "timestamp": "2025-05-04T13:33:18.765130",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-34.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F7F0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-35.html": {
+        "timestamp": "2025-05-04T13:33:18.857026",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-35.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A230>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-36.html": {
+        "timestamp": "2025-05-04T13:33:18.930360",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-36.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F760>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-37.html": {
+        "timestamp": "2025-05-04T13:33:19.009794",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-37.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4EB30>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-38.html": {
+        "timestamp": "2025-05-04T13:33:19.099207",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-38.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4C1C0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-39.html": {
+        "timestamp": "2025-05-04T13:33:19.178219",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-39.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F280>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-40.html": {
+        "timestamp": "2025-05-04T13:33:19.324123",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-40.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E8989EA0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-41.html": {
+        "timestamp": "2025-05-04T13:33:19.420293",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-41.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E380>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-42.html": {
+        "timestamp": "2025-05-04T13:33:19.578609",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-42.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4D6C0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-44.html": {
+        "timestamp": "2025-05-04T13:33:19.656331",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-44.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4EC20>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-45.html": {
+        "timestamp": "2025-05-04T13:33:19.782948",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-45.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E950>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-46.html": {
+        "timestamp": "2025-05-04T13:33:19.880249",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-46.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E8989F60>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-47.html": {
+        "timestamp": "2025-05-04T13:33:19.957462",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-47.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E350>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-48.html": {
+        "timestamp": "2025-05-04T13:33:20.048735",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-48.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E8988970>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-49.html": {
+        "timestamp": "2025-05-04T13:33:20.203965",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-49.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898A560>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-50.html": {
+        "timestamp": "2025-05-04T13:33:20.283580",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-50.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4DB40>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-51.html": {
+        "timestamp": "2025-05-04T13:33:20.345470",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-51.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4F0A0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-1948-52.html": {
+        "timestamp": "2025-05-04T13:33:20.405437",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-1948-52.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E7F4E110>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    "https://www.spiegel.de/spiegel/print/index-2025-54.html": {
+        "timestamp": "2025-05-04T13:33:20.456561",
+        "error": "HTTPSConnectionPool(host='www.spiegel.de', port=443): Max retries exceeded with url: /spiegel/print/index-2025-54.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000223E898BEB0>: Failed to resolve 'www.spiegel.de' ([Errno 11001] getaddrinfo failed)\"))"
+    }
+}

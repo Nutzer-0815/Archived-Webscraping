@@ -1,0 +1,12 @@
+2025-06-20 13:03:14 - INFO - 0.1 - Log-Datei wurde eingerichtet.
+2025-06-20 13:03:14 - INFO - 1 - Artikel-URLs wurden erfolgreich gesammelt.
+2025-06-20 13:03:14 - INFO - 2 - HTML-Inhalte wurden erfolgreich heruntergeladen.
+2025-06-20 13:03:14 - INFO - 3.2 - Datei fuer fehlerhafte Daten [c:\Users\Matze\Notebooks\endres-webscraping\data\stern_incorrect_data.json] wurde erfolgreich angelegt.
+2025-06-20 13:03:14 - INFO - 3.4 - Aggregieren von Jahrgang 2008
+2025-06-20 13:03:14 - INFO - 3.5 - Parallelisierung der Artikel beginnt.
+2025-06-20 13:03:28 - INFO - 3.5 - Parallelisierung der Artikel endet.
+2025-06-20 13:03:28 - INFO - 3.5 - [341] Artikel wurden verarbeitet.
+2025-06-20 13:03:28 - INFO - 3.6 - Datei [c:\Users\Matze\Notebooks\endres-webscraping\data\stern_json_data_nach_jahren\stern-2008.json] wurde gespeichert.
+2025-06-20 13:03:28 - INFO - 3.6 - Grundlegende Verarbeitung abgeschlossen.
+2025-06-20 13:03:28 - INFO - 3.7 - Dateigroessen dem JSON angehaengt.
+2025-06-20 13:03:28 - INFO - 4 - Code fuer Stern abgeschlossen.
